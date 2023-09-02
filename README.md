@@ -1,7 +1,7 @@
 # instalador
 INSTALADOR COMPLETO CHATWOOT+EVOLUTION+TYPEBOT 
 
-Aqui está o conteúdo completo do seu arquivo README.md com as informações fornecidas:
+
 
 ```markdown
 # Bem-vindo ao System Help Automação!
